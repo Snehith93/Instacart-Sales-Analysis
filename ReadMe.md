@@ -5,6 +5,8 @@
 This project involves analyzing the Instacart dataset using SQL queries to uncover insights into customer purchasing patterns. The analysis is conducted using DB Browser for SQLite, focusing on aspects such as most ordered products, order timings, and customer preferences.
 
 ## Dataset
+Link to dataset: https://drive.google.com/file/d/113NTWf0tT4M754RcU9WdJWd4rGMN7RTi/view?usp=sharing
+
 The dataset is structured into the following tables with the respective columns:
 
 - `aisles`: Contains aisles information.
